@@ -15,7 +15,7 @@ O site apresenta informações sobre a empresa, seu cardápio e formas de contat
 
 ## 🛠️ Tecnologias utilizadas
 
-- HTML5
+- HTML5 e CSS
 
 ## 🎯 Objetivo
 
